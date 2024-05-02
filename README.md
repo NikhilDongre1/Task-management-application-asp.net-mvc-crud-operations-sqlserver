@@ -20,7 +20,7 @@ This repository contains a Todo List Application built using ASP.NET MVC (.NET 6
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NikhilDongre1/todo-list-app.git
+   https://github.com/NikhilDongre1/Task-management-application-asp.net-mvc-crud-operations-sqlserver.git
    
 2. For Styling:
    copy bootswatch theme from website and paste to wwwroot/css.bootswatch.css
